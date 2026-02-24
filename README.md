@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developer crafting seamless digital experiences — currently building custom Shopify apps with Remix, Node.js & Prisma at LICO 🚀<br>Self-taught at heart, Computer Engineering student by discipline. I've shipped e-commerce solutions, optimized storefronts with Liquid, and yes — I've also built video games just for the fun of it 🎮
+Full Stack Developer crafting seamless digital experiences — currently building custom Shopify apps with Remix, Node.js & Prisma at LICO Cosmetics.<br>Self-taught at heart, Computer Engineering student by discipline. I've shipped e-commerce solutions, optimized storefronts with Liquid, and yes — I've also built video games just for the fun of it 🎮
 
 
 ## 🌐 Socials:

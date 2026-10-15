@@ -53,7 +53,7 @@ Pairing the theory with hands-on projects, because things only really click once
 ## 🛠️ Tech Stack
  
 ### 💼 Professional
-*What I use at work.*
+*What I use at work.* -> work profile: https://github.com/raquelsoutolico
  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)

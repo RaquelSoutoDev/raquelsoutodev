@@ -103,12 +103,5 @@ Qué hace en una frase y qué quería aprender con él.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelsoutodev&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" height="170" />
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=raquelsoutodev&theme=shadow_blue&hide_border=false" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=raquelsoutodev&icon=0&color=0" alt="Visitors" />
-  </a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

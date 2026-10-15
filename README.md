@@ -96,18 +96,11 @@ Qué hace en una frase y qué quería aprender con él.
 -->
  
 ---
- 
-## 🌐 Socials
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-souto-palomo)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Raquel-Souto)
- 
----
+
  
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raquelsoutodev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelsoutodev&theme=shadow_blue&hide_border=false&layout=compact" alt="Top Languages" height="170" />
 </p>
 <p align="center">
